@@ -1,2 +1,2 @@
-# jenkins
-this repo is for jenkins automation purpose
+# RealNest
+this repo is for RealNest for realestate project using jenkins automation.
